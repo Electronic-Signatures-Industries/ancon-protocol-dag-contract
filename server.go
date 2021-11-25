@@ -9,7 +9,6 @@ import (
 	"github.com/99designs/gqlgen/graphql/playground"
 	"github.com/Electronic-Signatures-Industries/ancon-protocol-dag-contract/graph"
 	"github.com/Electronic-Signatures-Industries/ancon-protocol-dag-contract/graph/generated"
-
 )
 
 const defaultPort = "8080"
